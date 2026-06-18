@@ -16,15 +16,18 @@ I solve problems. Languages are just tools — I care about architecture, perfor
 | **TypeScript** | [express-api](https://github.com/HI-BA-SA/express-api) — JWT auth + CRUD |
 | **JavaScript** | [md2html](https://github.com/HI-BA-SA/md2html) — Markdown CLI converter |
 | **JavaScript** | [url-shortener](https://github.com/HI-BA-SA/url-shortener) — Express + SQLite |
+| **Java** | [java-api](https://github.com/HI-BA-SA/java-api) — Spring Boot CRUD API |
 | **Rust** | [mini-grep](https://github.com/HI-BA-SA/mini-grep) — regex search tool |
+| **Next.js** | [next-notes](https://github.com/HI-BA-SA/next-notes) — Full-stack notes app |
+| **React** | [task-board](https://github.com/HI-BA-SA/task-board) — Kanban task board |
 | **Bash** | [server-scripts](https://github.com/HI-BA-SA/server-scripts) — DevOps automation |
 
 ### Learning journey
 
 ```
 Beginner ──► py-starter, js-starter
-Intermediate ──► weather-cli, url-shortener, docker-node-api, md2html, server-scripts
-Advanced ──► task-queue, express-api, mini-grep, load-balancer, mini-redis, sqlite-toy
+Intermediate ──► weather-cli, url-shortener, docker-node-api, md2html, server-scripts, task-board, next-notes
+Advanced ──► java-api, task-queue, express-api, mini-grep, load-balancer, mini-redis, sqlite-toy
 ```
 
 ### What drives me
